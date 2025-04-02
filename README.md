@@ -1,6 +1,5 @@
 # Striver's SDE Sheet - My Coding Journey 
 
-![Striver SDE Sheet](https://takeuforward.org/wp-content/uploads/2022/02/Strivers-SDE-Sheet.png)
 
 ## 📌 About
 This repository documents my progress as I solve **Striver's SDE Sheet**, a collection of **top coding interview problems** curated by TakeUForward. The goal is to improve problem-solving skills and prepare for coding interviews.
